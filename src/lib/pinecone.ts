@@ -10,3 +10,4 @@ export const getPineconeClient = async () => {
 
   return client
 }
+//
